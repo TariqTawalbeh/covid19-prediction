@@ -1,0 +1,42 @@
+[2021-05-17 17:57:18,072] {scheduler_job.py:182} INFO - Started process (PID=45) to work on /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:57:18,074] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py for tasks to queue
+[2021-05-17 17:57:18,075] {logging_mixin.py:104} INFO - [2021-05-17 17:57:18,075] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:57:18,271] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MyCSVDAG']) retrieved from /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:57:18,279] {logging_mixin.py:104} INFO - [2021-05-17 17:57:18,279] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:57:18,288] {logging_mixin.py:104} INFO - [2021-05-17 17:57:18,288] {dag.py:2273} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18T00:00:00+00:00
+[2021-05-17 17:57:18,521] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py took 0.456 seconds
+[2021-05-17 17:57:48,811] {scheduler_job.py:182} INFO - Started process (PID=75) to work on /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:57:48,811] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py for tasks to queue
+[2021-05-17 17:57:48,812] {logging_mixin.py:104} INFO - [2021-05-17 17:57:48,812] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:57:48,994] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MyCSVDAG']) retrieved from /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:57:49,008] {logging_mixin.py:104} INFO - [2021-05-17 17:57:49,008] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:57:49,016] {logging_mixin.py:104} INFO - [2021-05-17 17:57:49,016] {dag.py:2273} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18T00:00:00+00:00
+[2021-05-17 17:57:50,049] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py took 1.240 seconds
+[2021-05-17 17:58:20,400] {scheduler_job.py:182} INFO - Started process (PID=107) to work on /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:58:20,401] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py for tasks to queue
+[2021-05-17 17:58:20,401] {logging_mixin.py:104} INFO - [2021-05-17 17:58:20,401] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:58:20,590] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MyCSVDAG']) retrieved from /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:58:20,604] {logging_mixin.py:104} INFO - [2021-05-17 17:58:20,604] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:58:20,615] {logging_mixin.py:104} INFO - [2021-05-17 17:58:20,615] {dag.py:2273} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18T00:00:00+00:00
+[2021-05-17 17:58:20,838] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py took 0.440 seconds
+[2021-05-17 17:58:51,213] {scheduler_job.py:182} INFO - Started process (PID=139) to work on /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:58:51,214] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py for tasks to queue
+[2021-05-17 17:58:51,214] {logging_mixin.py:104} INFO - [2021-05-17 17:58:51,214] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:58:51,400] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MyCSVDAG']) retrieved from /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:58:51,408] {logging_mixin.py:104} INFO - [2021-05-17 17:58:51,408] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:58:51,417] {logging_mixin.py:104} INFO - [2021-05-17 17:58:51,417] {dag.py:2273} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18T00:00:00+00:00
+[2021-05-17 17:58:51,658] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py took 0.451 seconds
+[2021-05-17 17:59:21,878] {scheduler_job.py:182} INFO - Started process (PID=172) to work on /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:59:21,878] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py for tasks to queue
+[2021-05-17 17:59:21,879] {logging_mixin.py:104} INFO - [2021-05-17 17:59:21,879] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:59:22,063] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MyCSVDAG']) retrieved from /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:59:22,095] {logging_mixin.py:104} INFO - [2021-05-17 17:59:22,095] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:59:22,106] {logging_mixin.py:104} INFO - [2021-05-17 17:59:22,106] {dag.py:2273} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18T00:00:00+00:00
+[2021-05-17 17:59:22,129] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py took 0.253 seconds
+[2021-05-17 17:59:52,428] {scheduler_job.py:182} INFO - Started process (PID=203) to work on /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:59:52,429] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py for tasks to queue
+[2021-05-17 17:59:52,429] {logging_mixin.py:104} INFO - [2021-05-17 17:59:52,429] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:59:52,610] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MyCSVDAG']) retrieved from /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py
+[2021-05-17 17:59:52,623] {logging_mixin.py:104} INFO - [2021-05-17 17:59:52,623] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:59:52,633] {logging_mixin.py:104} INFO - [2021-05-17 17:59:52,633] {dag.py:2273} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18T00:00:00+00:00
+[2021-05-17 17:59:52,652] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/.ipynb_checkpoints/MyCSVDAG-checkpoint.py took 0.228 seconds

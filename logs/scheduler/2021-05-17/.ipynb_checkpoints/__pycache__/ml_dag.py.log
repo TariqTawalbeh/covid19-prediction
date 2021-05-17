@@ -1,0 +1,43 @@
+[2021-05-17 17:57:22,905] {scheduler_job.py:182} INFO - Started process (PID=60) to work on /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:57:22,908] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py for tasks to queue
+[2021-05-17 17:57:22,909] {logging_mixin.py:104} INFO - [2021-05-17 17:57:22,909] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:57:22,934] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ml_dag']) retrieved from /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:57:22,952] {logging_mixin.py:104} INFO - [2021-05-17 17:57:22,952] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:57:22,959] {logging_mixin.py:104} INFO - [2021-05-17 17:57:22,959] {dag.py:1837} INFO - Creating ORM DAG for ml_dag
+[2021-05-17 17:57:22,971] {logging_mixin.py:104} INFO - [2021-05-17 17:57:22,971] {dag.py:2273} INFO - Setting next_dagrun for ml_dag to 2021-05-16 00:00:00+00:00
+[2021-05-17 17:57:23,064] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py took 0.166 seconds
+[2021-05-17 17:57:53,092] {scheduler_job.py:182} INFO - Started process (PID=92) to work on /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:57:53,094] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py for tasks to queue
+[2021-05-17 17:57:53,095] {logging_mixin.py:104} INFO - [2021-05-17 17:57:53,095] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:57:53,115] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ml_dag']) retrieved from /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:57:53,128] {logging_mixin.py:104} INFO - [2021-05-17 17:57:53,128] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:57:53,145] {logging_mixin.py:104} INFO - [2021-05-17 17:57:53,144] {dag.py:2273} INFO - Setting next_dagrun for ml_dag to 2021-05-16 00:00:00+00:00
+[2021-05-17 17:57:53,305] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py took 0.218 seconds
+[2021-05-17 17:58:24,194] {scheduler_job.py:182} INFO - Started process (PID=124) to work on /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:58:24,196] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py for tasks to queue
+[2021-05-17 17:58:24,197] {logging_mixin.py:104} INFO - [2021-05-17 17:58:24,197] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:58:24,217] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ml_dag']) retrieved from /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:58:24,234] {logging_mixin.py:104} INFO - [2021-05-17 17:58:24,234] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:58:24,250] {logging_mixin.py:104} INFO - [2021-05-17 17:58:24,250] {dag.py:2273} INFO - Setting next_dagrun for ml_dag to 2021-05-16 00:00:00+00:00
+[2021-05-17 17:58:24,420] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py took 0.230 seconds
+[2021-05-17 17:58:55,016] {scheduler_job.py:182} INFO - Started process (PID=156) to work on /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:58:55,017] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py for tasks to queue
+[2021-05-17 17:58:55,017] {logging_mixin.py:104} INFO - [2021-05-17 17:58:55,017] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:58:55,026] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ml_dag']) retrieved from /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:58:55,038] {logging_mixin.py:104} INFO - [2021-05-17 17:58:55,038] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:58:55,055] {logging_mixin.py:104} INFO - [2021-05-17 17:58:55,055] {dag.py:2273} INFO - Setting next_dagrun for ml_dag to 2021-05-16 00:00:00+00:00
+[2021-05-17 17:58:55,227] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py took 0.213 seconds
+[2021-05-17 17:59:25,284] {scheduler_job.py:182} INFO - Started process (PID=187) to work on /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:59:25,286] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py for tasks to queue
+[2021-05-17 17:59:25,288] {logging_mixin.py:104} INFO - [2021-05-17 17:59:25,288] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:59:25,308] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ml_dag']) retrieved from /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:59:25,324] {logging_mixin.py:104} INFO - [2021-05-17 17:59:25,324] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:59:25,341] {logging_mixin.py:104} INFO - [2021-05-17 17:59:25,341] {dag.py:2273} INFO - Setting next_dagrun for ml_dag to 2021-05-16 00:00:00+00:00
+[2021-05-17 17:59:25,523] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py took 0.247 seconds
+[2021-05-17 17:59:56,334] {scheduler_job.py:182} INFO - Started process (PID=220) to work on /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:59:56,335] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py for tasks to queue
+[2021-05-17 17:59:56,335] {logging_mixin.py:104} INFO - [2021-05-17 17:59:56,335] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:59:56,344] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['ml_dag']) retrieved from /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py
+[2021-05-17 17:59:56,357] {logging_mixin.py:104} INFO - [2021-05-17 17:59:56,357] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:59:56,374] {logging_mixin.py:104} INFO - [2021-05-17 17:59:56,374] {dag.py:2273} INFO - Setting next_dagrun for ml_dag to 2021-05-16 00:00:00+00:00
+[2021-05-17 17:59:56,393] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/.ipynb_checkpoints/__pycache__/ml_dag.py took 0.061 seconds

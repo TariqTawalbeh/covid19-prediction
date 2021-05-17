@@ -1,0 +1,43 @@
+[2021-05-17 17:57:15,126] {scheduler_job.py:182} INFO - Started process (PID=33) to work on /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:57:15,128] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/MyCSVDAG.py for tasks to queue
+[2021-05-17 17:57:15,129] {logging_mixin.py:104} INFO - [2021-05-17 17:57:15,129] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:57:15,724] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MyCSVDAG']) retrieved from /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:57:15,738] {logging_mixin.py:104} INFO - [2021-05-17 17:57:15,738] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:57:15,744] {logging_mixin.py:104} INFO - [2021-05-17 17:57:15,744] {dag.py:1837} INFO - Creating ORM DAG for MyCSVDAG
+[2021-05-17 17:57:15,747] {logging_mixin.py:104} INFO - [2021-05-17 17:57:15,747] {dag.py:2273} INFO - Setting next_dagrun for MyCSVDAG to 2021-05-17 17:56:15.746909+00:00
+[2021-05-17 17:57:15,896] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/MyCSVDAG.py took 0.774 seconds
+[2021-05-17 17:57:46,325] {scheduler_job.py:182} INFO - Started process (PID=67) to work on /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:57:46,325] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/MyCSVDAG.py for tasks to queue
+[2021-05-17 17:57:46,326] {logging_mixin.py:104} INFO - [2021-05-17 17:57:46,325] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:57:46,506] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MyCSVDAG']) retrieved from /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:57:46,519] {logging_mixin.py:104} INFO - [2021-05-17 17:57:46,518] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:57:46,527] {logging_mixin.py:104} INFO - [2021-05-17 17:57:46,527] {dag.py:2273} INFO - Setting next_dagrun for MyCSVDAG to 2021-05-17 17:56:46.527530+00:00
+[2021-05-17 17:57:46,547] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/MyCSVDAG.py took 0.224 seconds
+[2021-05-17 17:58:17,518] {scheduler_job.py:182} INFO - Started process (PID=101) to work on /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:58:17,519] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/MyCSVDAG.py for tasks to queue
+[2021-05-17 17:58:17,519] {logging_mixin.py:104} INFO - [2021-05-17 17:58:17,519] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:58:17,693] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MyCSVDAG']) retrieved from /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:58:17,702] {logging_mixin.py:104} INFO - [2021-05-17 17:58:17,702] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:58:17,711] {logging_mixin.py:104} INFO - [2021-05-17 17:58:17,710] {dag.py:2273} INFO - Setting next_dagrun for MyCSVDAG to 2021-05-17 17:57:17.710803+00:00
+[2021-05-17 17:58:17,834] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/MyCSVDAG.py took 0.318 seconds
+[2021-05-17 17:58:47,890] {scheduler_job.py:182} INFO - Started process (PID=133) to work on /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:58:47,891] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/MyCSVDAG.py for tasks to queue
+[2021-05-17 17:58:47,892] {logging_mixin.py:104} INFO - [2021-05-17 17:58:47,891] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:58:48,080] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MyCSVDAG']) retrieved from /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:58:48,093] {logging_mixin.py:104} INFO - [2021-05-17 17:58:48,093] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:58:48,103] {logging_mixin.py:104} INFO - [2021-05-17 17:58:48,103] {dag.py:2273} INFO - Setting next_dagrun for MyCSVDAG to 2021-05-17 17:57:48.103282+00:00
+[2021-05-17 17:58:48,311] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/MyCSVDAG.py took 0.425 seconds
+[2021-05-17 17:59:18,545] {scheduler_job.py:182} INFO - Started process (PID=165) to work on /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:59:18,545] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/MyCSVDAG.py for tasks to queue
+[2021-05-17 17:59:18,546] {logging_mixin.py:104} INFO - [2021-05-17 17:59:18,546] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:59:18,725] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MyCSVDAG']) retrieved from /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:59:18,737] {logging_mixin.py:104} INFO - [2021-05-17 17:59:18,737] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:59:18,746] {logging_mixin.py:104} INFO - [2021-05-17 17:59:18,746] {dag.py:2273} INFO - Setting next_dagrun for MyCSVDAG to 2021-05-17 17:58:18.745956+00:00
+[2021-05-17 17:59:18,976] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/MyCSVDAG.py took 0.434 seconds
+[2021-05-17 17:59:49,685] {scheduler_job.py:182} INFO - Started process (PID=198) to work on /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:59:49,689] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/MyCSVDAG.py for tasks to queue
+[2021-05-17 17:59:49,691] {logging_mixin.py:104} INFO - [2021-05-17 17:59:49,690] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:59:49,889] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MyCSVDAG']) retrieved from /opt/airflow/dags/MyCSVDAG.py
+[2021-05-17 17:59:49,897] {logging_mixin.py:104} INFO - [2021-05-17 17:59:49,897] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-05-17 17:59:49,906] {logging_mixin.py:104} INFO - [2021-05-17 17:59:49,906] {dag.py:2273} INFO - Setting next_dagrun for MyCSVDAG to 2021-05-17 17:58:49.906013+00:00
+[2021-05-17 17:59:50,162] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/MyCSVDAG.py took 0.484 seconds
